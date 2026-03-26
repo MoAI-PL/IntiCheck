@@ -164,4 +164,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Remember: Your health matters. When in doubt, consult a professional.**</content>
-<parameter name="filePath">c:\Users\user\Desktop\IntiCheckEng\README.md
